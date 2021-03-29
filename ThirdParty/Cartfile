@@ -1,0 +1,4 @@
+
+github "ivorost/BlackUtils"
+github "Kitura/BlueSocket"
+github "ivorost/Starscream" "master"
